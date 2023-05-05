@@ -1,9 +1,9 @@
 # Diffusion-Study
 
 ## Contents
-- Papers(#Papers)
-- Posts(#Posts)
-- Experiments(#Experiments)
+- [Papers](#Papers)
+- [Posts](#Posts)
+- [Experiments](#Experiments)
 
 # Papers
 **Denoising Diffusion Probabilistic Models** \
