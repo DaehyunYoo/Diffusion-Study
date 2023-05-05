@@ -9,17 +9,17 @@
 
 **ratsgo's blog** \
 [[Website](https://ratsgo.github.io/generative%20model/2018/01/27/VAE/)] \
-VAE 외에도 기초적인 내용이 잘 정리되어 있는 블로그 \
+VAE 외에도 기초적인 내용이 잘 정리되어 있는 블로그
 
 **gaussian37** \
 [[Website](https://gaussian37.github.io/)] \
-Computer Vision 기초 내용이 잘 정리되어 있는 블로그 \
+Computer Vision 기초 내용이 잘 정리되어 있는 블로그 
 
 **What are Diffusion Models?** \
-[[Website](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)] \
+[[Website](https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html)] 
 
 **How Diffusion Models work: the math from scratch** \
-[[Website](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)] \
+[[Website](https://theaisummer.com/diffusion-models/?fbclid=IwAR1BIeNHqa3NtC8SL0sKXHATHklJYphNH-8IGNoO3xZhSKM_GYcvrrQgB0o)] 
 
 **DDPM Paper review** \
 [[Website](https://process-mining.tistory.com/188)] \
