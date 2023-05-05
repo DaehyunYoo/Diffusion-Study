@@ -7,7 +7,7 @@
 
 # Posts
 
-**ratsgo's blog** \ 
+**ratsgo's blog** \
 [[Website](https://ratsgo.github.io/generative%20model/2018/01/27/VAE/)] \
 VAE 외에도 기초적인 내용이 잘 정리되어 있는 블로그 \
 
