@@ -28,7 +28,10 @@ Computer Vision 기초 내용이 잘 정리되어 있는 블로그
 DDPM 논문 리뷰 블로그
 
 **Diffusion 논문 리뷰** \
-[[Youtube](https://youtu.be/jaPPALsUZo8)] \
+[[Youtube1](https://youtu.be/jaPPALsUZo8)] \
+[[Youtube2](https://youtu.be/KzrdkZUrbPk)] \
+[[Youtube3](https://youtu.be/Ec569AV6YD8)] \
+Diffusion 필수 논문 리뷰 영상
 
 # Papers
 
@@ -42,14 +45,20 @@ NeurIPS 2020. [[Paper](https://arxiv.org/abs/2006.11239)] [[Github](https://gith
 ICLR 2021. [[Paper](https://arxiv.org/abs/2010.02502)] \
 6 Oct 2020 
 
-**Generative Modeling by Estimating Gradients of the Data Distribution** \
-*Yang Song, Stefano Ermon* \
-NeurIPS 2019. [[Paper](https://arxiv.org/abs/1907.05600)] \
-12 Jul 2019 
+**Diffusion Models Beat GANs on Image Synthesis** \
+*Prafulla Dhariwal<sup>1</sup>, Alex Nichol<sup>1</sup>* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)] \
+11 May 2021
 
 **Classifier-Free Diffusion Guidance** \
 *Jonathan Ho, Tim Salimans* \
-NeurIPS Workshop 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
+NeurIPS 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
 28 Sep 2021 
+
+**Improved Denoising Diffusion Probabilistic Models** \
+*Alex Nichol, Prafulla Dhariwal* \
+PMLR 2021. [[Paper](https://arxiv.org/abs/2102.09672)] \
+18 Feb 2021
+
 
 # Experiments
