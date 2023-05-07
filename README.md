@@ -36,24 +36,39 @@ Diffusion 필수 논문 리뷰 영상
 # Papers
 
 **Denoising Diffusion Probabilistic Models** \
-*Jonathan Ho, Ajay Jain, Pieter Abbeel* \
 NeurIPS 2020. [[Paper](https://arxiv.org/abs/2006.11239)] [[Github](https://github.com/hojonathanho/diffusion)] \
+Jonathan Ho, Ajay Jain, Pieter Abbeel \
 19 Jun 2020
 
 **Denoising Diffusion Implicit Models**  \
-*Jiaming Song, Chenlin Meng, Stefano Ermon* \
-ICLR 2021. [[Paper](https://arxiv.org/abs/2010.02502)] \
-6 Oct 2020 
+ICLR 2021. [[Paper](https://arxiv.org/abs/2010.02502) [Github](https://github.com/ermongroup/ddim)] \
+Jiaming Song, Chenlin Meng, Stefano Ermon \
+Standford University \
+6 Oct 2020
 
 **Diffusion Models Beat GANs on Image Synthesis** \
-*Prafulla Dhariwal<sup>1</sup>, Alex Nichol<sup>1</sup>* \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)] \
+Prafulla Dhariwal, Alex Nichol \
+OpenAI \
 11 May 2021
 
+**Score-Based Generative Modeling through Stochastic Differential Equations** \
+ICLR 2021. [[Paper(https://arxiv.org/abs/2011.13456)] [[Github](https://github.com/yang-song/score_sde)] \
+Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole \
+Stanford University | Google Brain \
+26 Nov 2020
+
 **Classifier-Free Diffusion Guidance** \
-*Jonathan Ho, Tim Salimans* \
-NeurIPS 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
-28 Sep 2021 
+NeurIPS Workshop 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
+Jonathan Ho, Tim Salimans \
+Google Research, Brain team \
+28 Sep 2021
+
+**Diffusion-GAN: Training GANs with Diffusion** \
+arXiv 2022. [[Paper(https://arxiv.org/abs/2206.02262)]
+Zhendong Wang, Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou
+The University of Texas at Austin | Microsoft Azure AI
+11 Oct 2022
 
 **Improved Denoising Diffusion Probabilistic Models** \
 *Alex Nichol, Prafulla Dhariwal* \
