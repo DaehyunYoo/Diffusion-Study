@@ -5,7 +5,9 @@
 ## Contents
 - [Posts](#Posts)
 - [Papers](#Papers)
-- [Experiments](#Experiments)
+  - [Diffusion Must Read](#Diffusion Must Read)  
+  - [Video](#Video)   
+- [Tutorial & Jupyter](#Tutorial & Jupyter)
 
 # Posts & Videos
 
@@ -30,25 +32,26 @@ DDPM 논문 리뷰 블로그 \
 [[Link](https://process-mining.tistory.com/188)] 
 
 **Diffusion 논문 리뷰** \
+Diffusion 필수 논문 리뷰 영상 \
 [[Youtube1](https://youtu.be/jaPPALsUZo8)] 
-[[Youtube2](https://youtu.be/KzrdkZUrbPk)] 
-[[Youtube3](https://youtu.be/Ec569AV6YD8)] \
-Diffusion 필수 논문 리뷰 영상
+[[Youtube2](https://youtu.be/KzrdkZUrbPk)]
+[[Youtube3](https://youtu.be/Ec569AV6YD8)] 
 
 # Papers
+## Diffusion Must Read
 
-**Denoising Diffusion Probabilistic Models** \
+**Denoising Diffusion Probabilistic Models** :heavy_check_mark: \
 NeurIPS 2020. [[Paper](https://arxiv.org/abs/2006.11239)] [[Github](https://github.com/hojonathanho/diffusion)] \
 Jonathan Ho, Ajay Jain, Pieter Abbeel \
 19 Jun 2020
 
-**Denoising Diffusion Implicit Models**  \
+**Denoising Diffusion Implicit Models** :heavy_check_mark: \
 ICLR 2021. [[Paper](https://arxiv.org/abs/2010.02502) [Github](https://github.com/ermongroup/ddim)] \
 Jiaming Song, Chenlin Meng, Stefano Ermon \
 Standford University \
 6 Oct 2020
 
-**Diffusion Models Beat GANs on Image Synthesis** \
+**Diffusion Models Beat GANs on Image Synthesis** :heavy_check_mark: \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)] \
 Prafulla Dhariwal, Alex Nichol \
 OpenAI \
@@ -78,12 +81,33 @@ The University of Texas at Austin | Microsoft Azure AI \
 11 Oct 2022
 
 **Improved Denoising Diffusion Probabilistic Models** \
-ICLR 2021. [Paper](https://arxiv.org/abs/2102.09672)] [Github](https://github.com/openai/improved-diffusion)] \
+ICLR 2021. [[Paper](https://arxiv.org/abs/2102.09672)] [[Github](https://github.com/openai/improved-diffusion)] \
 Alex Nichol, Prafulla Dhariwal \
 OpenAI \
 18 Feb 2021
 
-# Experiments
+## Video
+
+**Video Diffusion Models** \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2204.03458)] [[Github](https://github.com/lucidrains/video-diffusion-pytorch)]  \
+Jonathan Ho, Tim Salimans, Alexey Gritsenko, William Chan, Mohammad Norouzi, David J. Fleet \
+Google Research, Brain Team \
+7 Apr 2022
+
+**Diffusion Models for Video Prediction and Infilling** \
+TMLR 2022. [[Paper](https://arxiv.org/abs/2206.07696)] [[Github](https://github.com/Tobi-r9/RaMViD)]
+Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi \
+15 Jun 2022
+
+**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.09853)] [[Github](https://github.com/voletiv/mcvd-pytorch)] \
+Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal \
+19 May 2022
+
+# Tutorial & Jupyter
+
 DDPM 기초 구현 \
 [[Youtube](https://youtu.be/a4Yfz2FxXiY)]
 
+Diffusion Huggingface \
+[[Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/diffusers_intro.ipynb)]
