@@ -84,3 +84,6 @@ OpenAI \
 18 Feb 2021
 
 # Experiments
+DDPM 기초 구현 \
+[[Youtube](https://youtu.be/a4Yfz2FxXiY)]
+
