@@ -1,13 +1,13 @@
 # Diffusion-Study
-내가 보려고 정리하는 깃헙...
+Diffusion 공부중...
 
 
 ## Contents
 - [Posts](#Posts)
 - [Papers](#Papers)
-  - [Diffusion Must Read](#Diffusion Must Read)  
+  - [Diffusion Must Read](#Diffusion-Must-Read)
   - [Video](#Video)   
-- [Tutorial & Jupyter](#Tutorial & Jupyter)
+- [Tutorial & Jupyter](#Tutorial-&-Jupyter)
 
 # Posts & Videos
 
@@ -88,18 +88,18 @@ OpenAI \
 
 ## Video
 
-**Video Diffusion Models** \
+**Video Diffusion Models** :heavy_check_mark: \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2204.03458)] [[Github](https://github.com/lucidrains/video-diffusion-pytorch)]  \
 Jonathan Ho, Tim Salimans, Alexey Gritsenko, William Chan, Mohammad Norouzi, David J. Fleet \
 Google Research, Brain Team \
 7 Apr 2022
 
-**Diffusion Models for Video Prediction and Infilling** \
+**Diffusion Models for Video Prediction and Infilling** :heavy_check_mark: \
 TMLR 2022. [[Paper](https://arxiv.org/abs/2206.07696)] [[Github](https://github.com/Tobi-r9/RaMViD)]
 Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi \
 15 Jun 2022
 
-**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** \
+**MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation** :heavy_check_mark: \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.09853)] [[Github](https://github.com/voletiv/mcvd-pytorch)] \
 Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal \
 19 May 2022
