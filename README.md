@@ -1,5 +1,5 @@
 # Diffusion-Study
-Diffusion 공부중...
+Diffusion 일기장
 
 
 ## Contents
