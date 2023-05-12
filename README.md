@@ -62,7 +62,7 @@ NeurIPS 2019. [[Paper](https://arxiv.org/abs/1907.05600)] [[Github](https://gith
 Yang Song, Stefano Ermon \
 12 Jul 2019 
 
-**Score-Based Generative Modeling through Stochastic Differential Equations** \
+**Score-Based Generative Modeling through Stochastic Differential Equations** :heavy_check_mark: \
 ICLR 2021. [[Paper](https://arxiv.org/abs/2011.13456)] [[Github](https://github.com/yang-song/score_sde)] \
 Yang Song, Jascha Sohl-Dickstein, Diederik P. Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole \
 Stanford University | Google Brain \
