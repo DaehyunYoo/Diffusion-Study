@@ -86,7 +86,7 @@ Alex Nichol, Prafulla Dhariwal \
 OpenAI \
 18 Feb 2021
 
-**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs** \
+**Tackling the Generative Learning Trilemma with Denoising Diffusion GANs** :heavy_check_mark: \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2112.07804)] [[Page](https://nvlabs.github.io/denoising-diffusion-gan/)] [[Github](https://github.com/NVlabs/denoising-diffusion-gan)] \
 Zhisheng Xiao, Karsten Kreis, Arash Vahdat \
 The University of Chicago | NVIDIA \
