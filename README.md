@@ -92,7 +92,7 @@ Zhisheng Xiao, Karsten Kreis, Arash Vahdat \
 The University of Chicago | NVIDIA \
 15 Dec 2021
 
-**High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)** \
+**High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion)** :heavy_check_mark:  \
 arXiv 2021. [[Paper](https://arxiv.org/abs/2112.10752)] [[Github](https://github.com/CompVis/latent-diffusion)] \
 Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer \
 Ludwig Maximilian University of Munich & IWR, Heidelberg University, Germany | Runway ML \
