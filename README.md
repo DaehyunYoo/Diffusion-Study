@@ -6,7 +6,8 @@ Diffusion 일기장
 - [Posts](#Posts)
 - [Papers](#Papers)
   - [Diffusion Must Read](#Diffusion-Must-Read)
-  - [Video](#Video)   
+  - [Video](#Video) 
+  - [Inpainting](#Inpainting)
 - [Tutorial & Jupyter](#Tutorial-&-Jupyter)
 
 # Posts & Videos
@@ -116,6 +117,15 @@ Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.09853)] [[Github](https://github.com/voletiv/mcvd-pytorch)] \
 Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal \
 19 May 2022
+
+## Inpainting
+
+**Repaint: RePaint: Inpainting using Denoising Diffusion Probabilistic Models ** :heavy_check_mark: \
+CVPR 2022. [[Paper](https://arxiv.org/abs/2201.09865)] [[Github](https://github.com/andreas128/RePaint)] \
+Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool \
+Computer Vision Lab, ETH Zurich, Switzerland \
+24 Jan 2022 
+
 
 # Tutorial & Jupyter
 
