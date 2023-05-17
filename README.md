@@ -120,7 +120,7 @@ Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal \
 
 ## Inpainting
 
-**Repaint: RePaint: Inpainting using Denoising Diffusion Probabilistic Models ** :heavy_check_mark: \
+**Repaint: RePaint: Inpainting using Denoising Diffusion Probabilistic Models** :heavy_check_mark: \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2201.09865)] [[Github](https://github.com/andreas128/RePaint)] \
 Andreas Lugmayr, Martin Danelljan, Andres Romero, Fisher Yu, Radu Timofte, Luc Van Gool \
 Computer Vision Lab, ETH Zurich, Switzerland \
